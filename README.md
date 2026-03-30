@@ -19,6 +19,5 @@ The goal was to create an interactive dashboard.
 3. **DAX Measures:** Developed custom DAX measures to calculate the core metrics shown in the cards and gauges, such as Average Age = AVERAGE(Survey[Age]), Total Respondents = COUNTROWS(Survey), and Average Happiness = AVERAGE(Survey[HappinessScore]).
 4. **Visualization:** Built an interactive layout using a Tree Map for geographic distribution, Gauge Charts for sentiment tracking (Work/Life Balance vs. Salary), and Horizontal Bar Charts to rank average salaries by role. 
 
-## **How to Run!** 
+## **How to Run!**
 If you want to run these files, you will need to change the source path to wherever you save the Excel file on you computer.
-
