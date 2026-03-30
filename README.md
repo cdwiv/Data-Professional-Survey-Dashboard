@@ -10,7 +10,8 @@ The goal was to create an interactive dashboard.
 * Visuals: Screenshots located in this README. 
 
 ## 🖼️ Dashboard Preview
-![Main Dashboard Screen](./Dashboard Preview.png)
+<img width="2235" height="1260" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/7e415a44-5015-4fdb-922b-e38223201a8b" /> 
+
 
 ## 🛠️ Key Steps Taken
 1. **Data Cleaning:** Used Power Query to clean raw survey responses, which involved handling null values in the "Salary" and "Age" columns, standardizing "Job Titles," and grouping various niche programming languages into an "Other" category for better visualization.
